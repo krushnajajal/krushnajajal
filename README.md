@@ -1,11 +1,8 @@
-<!-- README.md -->
 <div align="center">
 
-  <!-- Header -->
   <h1>Hi there, I'm Krushna Jajal 👋</h1>
-  <h3>🚀 IT Student | Web Developer | AI & IoT Enthusiast</h3>
+  <h3>🚀 IT Student | AI & IoT Enthusiast|Cyber Security Aspirant </h3>
 
-  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=79d7f2&center=true&vCenter=true&width=650&lines=IT+Student+%7C+VNSGU+2026;Software+Development+Intern+%40+Comnet;Building+AI+%26+IoT+Solutions;Always+Learning+and+Innovating" alt="Typing SVG" />
   </a>
@@ -57,7 +54,7 @@ Here are the technologies I work with:
 <summary><b>1. 🤖 BlinkTrip AI — AI-Powered Travel Assistant (Internship Project)</b></summary>
 <br>
 <div align="center">
-  <a href="https://github.com/krushnajajal/BlinkTripAI">
+  <a href="https://github.com/krushnajajal/">
     <!-- IMPORTANT: Replace this with a real GIF or image from your project -->
     <img src="https://placehold.co/700x350/1a202c/a0aec0?text=BlinkTrip+AI+GIF" alt="BlinkTrip AI Demo" width="700" />
   </a>
@@ -70,7 +67,7 @@ Here are the technologies I work with:
   <b>Tech Stack:</b> AI/ML, PHP, JavaScript, Web APIs, and Chatbot Integration.
 </p>
 <p align="right">
-  <a href="https://github.com/krushnajajal/BlinkTripAI"><b>View Repository &rarr;</b></a>
+  <a href="https://github.com/krushnajajal/"><b>View Repository &rarr;</b></a>
 </p>
 </details>
 
@@ -80,7 +77,7 @@ Here are the technologies I work with:
 <summary><b>2. 👟 FORESTEPS — Smart Footwear for Parkinson’s Patients</b></summary>
 <br>
 <div align="center">
-  <a href="https://github.com/krushnajajal/Foresteps">
+  <a href="https://github.com/krushnajajal/">
     <!-- IMPORTANT: Replace this with a real GIF or image from your project -->
     <img src="https://placehold.co/700x350/1a202c/a0aec0?text=Foresteps+Project+GIF" alt="Foresteps Demo" width="700" />
   </a>
@@ -93,7 +90,7 @@ Here are the technologies I work with:
   <b>Tech Stack:</b> Microcontrollers, IoT Sensors, Thingspeak, Embedded Systems.
 </p>
 <p align="right">
-  <a href="https://github.com/krushnajajal/Foresteps"><b>View Repository &rarr;</b></a>
+  <a href="https://github.com/krushnajajal/"><b>View Repository &rarr;</b></a>
 </p>
 </details>
 
@@ -103,7 +100,7 @@ Here are the technologies I work with:
 <summary><b>3. 🛠️ ZapServe — Local Service Marketplace Platform</b></summary>
 <br>
 <div align="center">
-  <a href="https://github.com/krushnajajal/ZapServe">
+  <a href="https://github.com/krushnajajal/">
     <!-- IMPORTANT: Replace this with a real GIF or image from your project -->
     <img src="https://placehold.co/700x350/1a202c/a0aec0?text=ZapServe+Project+GIF" alt="ZapServe Demo" width="700" />
   </a>
@@ -116,7 +113,7 @@ Here are the technologies I work with:
   <b>Tech Stack:</b> PHP, MySQL, JavaScript, HTML, CSS.
 </p>
 <p align="right">
-  <a href="https://github.com/krushnajajal/ZapServe"><b>View Repository &rarr;</b></a>
+  <a href="https://github.com/krushnajajal/"><b>View Repository &rarr;</b></a>
 </p>
 </details>
 
@@ -169,4 +166,4 @@ Here are the technologies I work with:
 
 ---
 
-> ⭐ _“Building real-world solutions, learning fast, and solving problems that matter.”_
+> “Building real-world solutions, learning fast, and solving problems that matter.”_
