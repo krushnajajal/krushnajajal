@@ -74,7 +74,7 @@ Here are the technologies I work with:
 <br>
 
 <details>
-<summary><b>2. 👟 FORESTEPS — Smart Footwear for Parkinson’s Patients</b></summary>
+<summary><b>2. 👟 FORESTEPS — Footwear for PDP </b></summary>
 <br>
 <div align="center">
   <a href="https://github.com/krushnajajal/">
