@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi there, I'm Krushna Jajal 👋</h1>
-  <h3>🚀 IT Student | AI & IoT Enthusiast|Cyber Security Aspirant </h3>
+  <h3> IT Student | AI & IoT Enthusiast|Cyber Security Aspirant </h3>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=79d7f2&center=true&vCenter=true&width=650&lines=IT+Student+%7C+VNSGU+2026;Software+Development+Intern+%40+Comnet;Building+AI+%26+IoT+Solutions;Always+Learning+and+Innovating" alt="Typing SVG" />
