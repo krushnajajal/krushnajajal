@@ -51,7 +51,7 @@ Here are the technologies I work with:
 ### 📌 Featured Projects
 
 <details>
-<summary><b>1. 🤖 BlinkTrip AI — AI-Powered Travel Assistant (Internship Project)</b></summary>
+<summary><b>1.  BlinkTrip AI — AI-Powered Travel Assistant (Internship Project)</b></summary>
 <br>
 <div align="center">
   <a href="https://github.com/krushnajajal/">
@@ -74,7 +74,7 @@ Here are the technologies I work with:
 <br>
 
 <details>
-<summary><b>2. 👟 FORESTEPS — Footwear for PDP </b></summary>
+<summary><b>2. FORESTEPS — Footwear for PDP </b></summary>
 <br>
 <div align="center">
   <a href="https://github.com/krushnajajal/">
@@ -97,7 +97,7 @@ Here are the technologies I work with:
 <br>
 
 <details>
-<summary><b>3. 🛠️ ZapServe — Local Service Marketplace Platform</b></summary>
+<summary><b>3. ZapServe — Local Service Marketplace Platform</b></summary>
 <br>
 <div align="center">
   <a href="https://github.com/krushnajajal/">
