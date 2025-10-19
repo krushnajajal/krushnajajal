@@ -55,11 +55,10 @@ Here are the technologies I work with:
 <br>
 <div align="center">
   <a href="https://github.com/krushnajajal/">
-    <!-- IMPORTANT: Replace this with a real GIF or image from your project -->
     <img src="https://placehold.co/700x350/1a202c/a0aec0?text=BlinkTrip+AI+GIF" alt="BlinkTrip AI Demo" width="700" />
   </a>
 </div>
-<br>
+
 <blockquote>
   An intelligent travel assistant and chatbot built for BlinkTrip. This project leverages AI/ML to provide personalized travel recommendations and assistance.
 </blockquote>
@@ -71,14 +70,13 @@ Here are the technologies I work with:
 </p>
 </details>
 
-<br>
+
 
 <details>
 <summary><b>2. FORESTEPS — Footwear for PDP </b></summary>
 <br>
 <div align="center">
   <a href="https://github.com/krushnajajal/">
-    <!-- IMPORTANT: Replace this with a real GIF or image from your project -->
     <img src="https://placehold.co/700x350/1a202c/a0aec0?text=Foresteps+Project+GIF" alt="Foresteps Demo" width="700" />
   </a>
 </div>
@@ -94,14 +92,13 @@ Here are the technologies I work with:
 </p>
 </details>
 
-<br>
+
 
 <details>
 <summary><b>3. ZapServe — Local Service Marketplace Platform</b></summary>
 <br>
 <div align="center">
   <a href="https://github.com/krushnajajal/">
-    <!-- IMPORTANT: Replace this with a real GIF or image from your project -->
     <img src="https://placehold.co/700x350/1a202c/a0aec0?text=ZapServe+Project+GIF" alt="ZapServe Demo" width="700" />
   </a>
 </div>
@@ -153,16 +150,13 @@ Here are the technologies I work with:
 
 <div align="center">
   
-  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=krushnajajal&label=PROFILE+VIEWS&color=4299e1&style=flat-square" alt="Profile views" />
   <br><br>
 
-  <!-- Stats & Languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=krushnajajal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnajajal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
   <br>
 
-  <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=krushnajajal&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
