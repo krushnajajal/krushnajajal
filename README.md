@@ -11,7 +11,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
 I'm a passionate **Information Technology** student at VNSGU, graduating in 2026. Currently, I'm honing my skills as a **Software Development Intern** at Comnet Development India, where I'm contributing to the **BlinkTrip AI** project. My core interests lie in building real-world solutions that matter, from AI-powered web apps to innovative IoT devices.
 
@@ -19,7 +19,7 @@ Outside of coding, I'm an avid **Lawn Tennis** and **Volleyball** player, which 
 
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 
 Here are the technologies I work with:
 
@@ -48,7 +48,7 @@ Here are the technologies I work with:
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 <details>
 <summary><b>1.  BlinkTrip AI — AI-Powered Travel Assistant (Internship Project)</b></summary>
@@ -117,16 +117,35 @@ Here are the technologies I work with:
 </p>
 </details>
 
+<details> 
+  <summary>
+    <b>
+      4. BlockDragon — Blockchain-Based Skill Credentialing Platform</b></summary> 
+  <br> 
+  <div align="center"> 
+        <a href="https://github.com/krushnajajal/"> 
+        <img src="https://placehold.co/700x350/1a202c/a0aec0?text=BlockDragon+Project+GIF" alt="BlockDragon Demo" width="700" /> 
+        </a> </div> 
+  <br> 
+  <blockquote> A blockchain-based platform designed to ensure secure, verifiable, and tamper-proof digital credentials for learners and professionals. Built to revolutionize the way skills and achievements are authenticated. </blockquote> <p> <b>Tech Stack:
+  </b> Blockchain, Smart Contracts, Web3 Integration. </p> 
+  <p align="center"> 
+    <a href="https://youtu.be/Ngun6AYJfy0" target="_blank"><b>Demo on YouTube</b></a> </p> <p align="right"> <a href="https://github.com/krushnajajal/">
+      <b>View Repository &rarr;</b></a> </p> 
+</details>
 ---
 
 ### 🏆 Achievements & Certifications
 
--   🏅 **Leadership Certificate** — IIT Bombay (e-Yantra Innovation Challenge)
--   🧠 **Basics of Embedded Systems** — IIT Bombay
--   💡 **Entrepreneurship Program** — IIT Bombay
--   🌐 **IoT & Linux Essentials**
--   💻 **Web Development Basics** (HTML, CSS, Bootstrap)
--   💰 **SSIP Government Funding Recipient** (VNSGU)
+-    **SIH Internal Hackathon Winner** Smart India Hackathon and VNSGU
+-    **Leadership Certificate** — IIT Bombay (e-Yantra Innovation Challenge)
+-    **Basics of Embedded Systems** — IIT Bombay
+-    **Entrepreneurship Program** — IIT Bombay
+-    **IoT & Linux Essentials** NPTEL Swayam
+-   **Web Development Basics** (HTML, CSS, Bootstrap)
+-    **SSIP Government Funding Recipient** (VNSGU)
+
+  
 
 ---
 
@@ -150,7 +169,7 @@ Here are the technologies I work with:
 
 ---
 
-### 🌐 Let's Connect!
+### Let's Connect!
 
 <p align="center">
   <a href="mailto:krushnajajal37@gmail.com">
