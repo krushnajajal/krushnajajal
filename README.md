@@ -13,7 +13,7 @@
 
 ###  About Me
 
-I'm a passionate **Information Technology** student at VNSGU, graduating in 2026. Currently, I'm honing my skills as a **Software Development Intern** at Comnet Development India, where I'm contributing to the **BlinkTrip AI** project. My core interests lie in building real-world solutions that matter, from AI-powered web apps to innovative IoT devices.
+I'm a passionate **Information Technology** student at VNSGU, graduated in 2026. Currently, My core interests lie in building real-world solutions that matter, from AI-powered web apps to innovative IoT devices.
 
 Outside of coding, I'm an avid **Lawn Tennis** and **Volleyball** player, which fuels my energy and teaches me the value of teamwork and discipline.
 
